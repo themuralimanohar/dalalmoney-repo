@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "Dalalmoney Stock tips",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/dmlogo.png",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": "Dalalmoney"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "Dalalmoney's expertise and resources <br/> will help you achieve your financial goals.",
+    "copyright": "Designed & Developed By DalalMoney"
+  },
+
+  "contact_info": {
+    "phone": "+91 9876543210",
+    "email": "info@dalamoney.com",
+    "location": "Your current address here..."
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Download Now",
+    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Andromeda-light Nextjs Blog Template"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get DalalMoney Now",
+    "content": "Subscribe to one of our plans today and gain access <br/> to expert guidance and recommendations.",
+    "button": {
+      "label": "View Plans",
+      "link": "https://themefisher.com/products/andromeda-light-nextjs"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
