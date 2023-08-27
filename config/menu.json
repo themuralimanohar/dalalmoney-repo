@@ -5,27 +5,8 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Blog",
-      "url": "/posts"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Terms & Conditions",
-          "url": "/terms-policy"
-        }
-      ]
+      "name": "Pricing",
+      "url": "/pricing"
     },
     {
       "name": "Contact",
@@ -33,10 +14,6 @@
     }
   ],
   "footer": [
-    {
-      "name": "About",
-      "url": "/about"
-    },
     {
       "name": "Blog",
       "url": "/blog"

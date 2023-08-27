@@ -195,6 +195,23 @@
     }
   }
 
+  &:hover {
+    background-color: #fe6019;
+    p {
+      color: black;
+    }
+    .btn {
+      background-color: white;
+      color: #000;
+    }
+    .feature-card-icon {
+      border-color: white;
+      svg {
+        color: white;
+      }
+    }
+  }
+
   &:hover &-icon::before {
     @apply bottom-0 top-auto h-full;
   }

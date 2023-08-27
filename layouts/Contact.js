@@ -8,8 +8,14 @@ const Contact = ({ data }) => {
 
   return (
     <section className="section">
+      
       <Banner title={title} />
       <div className="container">
+        <div className="row">
+          <div className="mx-auto py-10 text-center lg:col-8">
+            <h3>You're on the right place. <br/> Drop your details we will contact you!</h3>
+          </div>
+        </div>
         <div className="section row items-center justify-center">
           <div className="animate lg:col-5">
             <ImageFallback

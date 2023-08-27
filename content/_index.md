@@ -4,7 +4,7 @@ banner:
   image: /images/banner-app.png
   link:
     label: Learn More
-    href: "#"
+    href: "contact"
 
 ##brands
 brands:

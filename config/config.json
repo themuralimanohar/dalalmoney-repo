@@ -25,13 +25,13 @@
   "contact_info": {
     "phone": "+91 9876543210",
     "email": "info@dalamoney.com",
-    "location": "Your current address here..."
+    "location": "..."
   },
 
   "nav_button": {
     "enable": true,
-    "label": "Download Now",
-    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+    "label": "Get Dalalmoney",
+    "link": "contact"
   },
 
   "metadata": {
@@ -46,7 +46,7 @@
     "content": "Subscribe to one of our plans today and gain access <br/> to expert guidance and recommendations.",
     "button": {
       "label": "View Plans",
-      "link": "https://themefisher.com/products/andromeda-light-nextjs"
+      "link": "pricing"
     }
   },
 
